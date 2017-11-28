@@ -1,0 +1,22 @@
+{
+  "name": "beagan-utility-data-viewer",
+  "version": "0.0.1",
+  "description": "Utility Data Viewer",
+  "engines": {
+    "node": "6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "4.15.2"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
